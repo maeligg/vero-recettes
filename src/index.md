@@ -1,8 +1,8 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: Ce livre de cuisine appartient à
 authorInTitle: true
 metaTitle: Home
-favouriteRecipes: Some of my favourite recipes
+favouriteRecipes: Certaines de mes recettes préférées
 randomRecipe: random recipe
 ---

@@ -5,7 +5,6 @@ tags:
   - Sweet 🍬
   - Cake 🍰
   - Sharable
-  - Favourite ⭐
 time: 45 min
 servings: 4
 sourceLabel: BBC good food

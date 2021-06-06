@@ -1,5 +1,5 @@
 ---
-title: Potage de potiron lait de coco et curry
+title: Potage de potiron, lait de coco et curry
 image: /recipe-images/delish-pumpkin-soup-1530366869.jpg
 tags:
   - Soupe

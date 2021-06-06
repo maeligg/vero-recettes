@@ -2,7 +2,7 @@
 title: Risotto aux courgettes et citron
 image: /recipe-images/courgette-lemon-risotto.jpg
 tags:
-  - Italian 🇮🇹
+  - Italien 🇮🇹
   - Végétarien 🌿
   - Favorite ⭐
 time: 50 min

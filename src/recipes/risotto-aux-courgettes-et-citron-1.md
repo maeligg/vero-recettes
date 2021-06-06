@@ -1,7 +1,8 @@
 ---
 title: Risotto aux courgettes et citron
 image: /recipe-images/courgette-lemon-risotto.jpg
-tags: []
+tags:
+  - Italian 🇮🇹
 time: 50 min
 servings: 2
 ingredients:

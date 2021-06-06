@@ -4,7 +4,7 @@ image: /recipe-images/courgette-lemon-risotto.jpg
 tags:
   - Italien 🇮🇹
   - Végétarien 🌿
-  - Favorite ⭐
+  - Favourite ⭐
 time: 50 min
 servings: 2
 ingredients:

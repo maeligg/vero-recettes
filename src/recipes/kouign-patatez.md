@@ -10,7 +10,7 @@ ingredients:
   - 150 g farine de blé
   - 50 g farine de sarrasin (blé noir)
   - 200 g de beurre demi-sel fondu
-  - 1 jaune d’œuf
+  - 1 jaune(s) d’œuf
   - poivre
 ---
 Dans une casserole d’eau, faite cuire les pommes de terre environ 25 minutes. Lorsqu’elles sont cuites, égouttez-les. Placez-les dans un saladier, puis écrasez-les à l’aide d’une fourchette. Ajoutez le beurre fondu et les farines. Mélangez le tout et poivrez.

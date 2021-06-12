@@ -8,7 +8,7 @@ time: 20 min
 servings: 6
 ingredients:
   - 250 gr de fraises
-  - 1 paquet de biscuits roses de Reims (275 gr)
+  - 275 grde biscuits roses de Reims (soit 1 paquet)
   - 250 gr de mascarpone
   - 2 jaunes d’œufs
   - 80 gr de sucre

@@ -1,8 +1,11 @@
 {
-  "name": "Les recettes de Véro",
-  "metaDescription": "Mes recettes préférées",
-  "author": "Véro",
-  "primaryColor": "#a4f366",
-  "secondaryColor": "#32816e",
-  "searchLabel": "Trouver les recettes par nom ou ingrédient"
+    "name": "Les recettes de Véro",
+    "metaDescription": "Mes recettes préférées",
+    "author": "Véro",
+    "primaryColor": "#a4f366",
+    "secondaryColor": "#32816e",
+    "searchLabel": "Trouver les recettes par nom, tag ou ingrédient",
+    "searchContainsLabel": "Contient",
+    "servingsLabel": "personnes",
+    "ingredientsLabel": "Ingrédients"
 }

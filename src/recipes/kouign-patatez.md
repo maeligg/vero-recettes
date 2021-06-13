@@ -1,6 +1,6 @@
 ---
 title: Kouign patatez
-image: /recipe-images/kouign-patatez_1.jpeg
+image: /img/recipes/kouign-patatez_1.jpeg
 tags:
   - Végétarien 🌿
 time: 55 min

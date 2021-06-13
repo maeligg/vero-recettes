@@ -1,9 +1,9 @@
 ---
 title: Fraisier aux biscuits roses
-image: /recipe-images/fraisier-biscuits-rose_3.jpeg
+image: /img/recipes/fraisier-biscuits-rose_3.jpeg
 tags:
   - Cake 🍰
-  - Favourite ⭐
+  - Été ☀️
 time: 20 min
 servings: 6
 ingredients:

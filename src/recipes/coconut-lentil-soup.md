@@ -2,7 +2,7 @@
 title: Soupe de lentilles au lait de coco
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
-  - Soup 🥣
+  - Soupe 🥣
   - Vegan 🌱
 servings: 4
 sourceLabel: Bon Appétit

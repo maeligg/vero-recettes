@@ -2,7 +2,7 @@
 title: Potage de potiron, lait de coco et curry
 image: /img/recipes/delish-pumpkin-soup-1530366869.jpg
 tags:
-  - Soupe
+  - Soupe 🥣
 time: 25 min
 servings: 4
 ingredients:

@@ -3,7 +3,6 @@ title: Brownies
 image: /img/recipes/brownies.jpg
 tags:
   - Cake 🍰
-  - Sharable
 time: 45 min
 servings: 4
 sourceLabel: BBC good food
@@ -16,13 +15,16 @@ ingredients:
   - " 110 gr farine"
   - 55 gr de cacao en poudre
 ---
+Préchauffez le four à 190°C
 
-Heat the oven to 190C/170C Fan/Gas 5. Line a 20x30cm baking tin with baking paper.
+Recouvrez le fond d'un moule 20x30 cm de papier cuisson.
 
-Gently melt the butter and the sugar together in a large pan. Once melted, take off the heat and add the chocolate. Stir until melted.
+Mélangez le beurre et le sucre dans un saladier.
 
-Beat in the eggs, then stir in the flour and the cocoa powder.
+Faites fondre doucement au bain marie le chocolat en morceaux, et hors du feu ajoutez-le au mélange beurre-sucre en mélangeant délicatement.
 
-Pour the brownie batter into the prepared tin and bake for 30–35 minutes, or until the top of the brownie is just firm but there is still a gentle wobble in the middle.
+Ajoutez les œufs battus, puis la farine et le cacao en poudre.
 
-Take out of the oven and leave to cool in the tin. Cut the brownies into 5cm squares when only just warm, or completely cool.
+Versez la préparation dans le moule et cuire pendant 30-35 min, ou jusqu'à ce que le brownie soit juste ferme mais qu'il frémisse encore un peu au milieu.
+
+Sortez-le du four et laissez-le refroidir dans le moule. Coupez les brownies en carrés de 5 cm quand ils sont à peine chaud, ou complètement refroidi.

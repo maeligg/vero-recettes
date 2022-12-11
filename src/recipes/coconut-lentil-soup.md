@@ -1,34 +1,45 @@
 ---
-title: Coconut lentil soup
+title: Soupe de lentilles au lait de coco
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
-    - Soup 🥣
-    - Vegan 🌱
+  - Soup 🥣
+  - Vegan 🌱
+servings: 4
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
-servings: 4
 ingredients:
-- 1 large onion
-- 6 garlic cloves
-- 3 tablespoons of grated ginger
-- 2 tablespoons virgin coconut oil
-- 5 teaspoons curry powder
-- 0.5 teaspoon cayenne pepper
-- 400g can unsweetened coconut milk
-- 150g split red lentils
-- 8 tablespoons unsweetened shredded coconut
-- 2 teaspoons kosher salt
-- 300g spinach
-- 1 can crushed tomatoes
-- plain whole-milk or non-dairy yogurt (for serving; optional)
+  - 1 gros oignon
+  - 6 gousses d'ail
+  - 3 c.à soupe de gingembre râpé
+  - 2 c.à soupe d'huile de noix de coco
+  - 5 c.à café de poudre de curry
+  - 0.5 c.à café de poivre de Cayenne
+  - 400 gr lait de coco non sucré
+  - 150 gr lentilles rouges
+  - 8 c.à soupe de noix de coco râpé non sucrée
+  - 2 c.à café de sel
+  - 300 gr d'épinards
+  - 1 boite de tomates écrasées
+  - lait entier ou yogurt (pour servir à la fin, facultatif)
 ---
+**Recette**
 
-Peel 1 onion and chop. Smash 6 garlic cloves with the flat side of your knife. Peel, then finely chop. Peel the ginger with a small spoon, then finely chop.
+Pelez 1 oignon et hachez-le.
 
-Heat 2 Tbsp. oil in large Dutch oven over medium. Add onion and cook, stirring often, just until translucent, 6–8 minutes. Add garlic and ginger and cook, stirring often, until garlic is starting to turn golden, about 5 minutes. Add 5 tsp. curry powder and 0.5 tsp. cayenne and cook, stirring constantly, until spices are aromatic and starting to stick to bottom of pot, about 1 minute. Add the coconut milk and stir to loosen spices, then stir in the lentils, the shredded coconut, 2 tsp. salt, and 1 liter of water.
+Écrasez 6 gousses d'ail avec le côté plat de votre couteau. Pelez-les, puis hachez-les finement.
 
-Bring to a boil over medium-high heat, then reduce heat to medium-low to keep soup at a gentle simmer. Cook, stirring occasionally, until lentils are broken down and soup is thickened, 25–30 minutes.
+Pelez le gingembre avec une petite cuillère, puis hachez-le finement.
 
-Meanwhile, coarsely chop the spinach. Add spinach and the tomatoes to pot and stir to combine. Taste and season with more salt. Simmer just to let flavors meld, about 5 minutes. Taste and season again with more salt.
+Chauffez 2 c. à soupe d’huile dans un grand faitout à feu moyen. Ajoutez l'oignon et cuire, en remuant souvent, jusqu'à ce qu'il soit translucide, 6 à 8 minutes.
 
-Ladle soup into bowls. Top with yogurt, if desired.
+Ajouter l'ail et le gingembre et cuire, en remuant souvent, jusqu'à ce que l'ail commence à dorer, environ 5 minutes.
+
+Ajoutez 5 c. à café de curry en poudre et 1/2 c. à café de poivre de cayenne et cuire, en remuant constamment, jusqu'à ce que les épices soient aromatiques et commencent à coller au fond de la casserole, environ 1 minute.
+
+Ajoutez le lait de coco et remuez pour détacher les épices, puis incorporez les lentilles, la noix de coco râpée, 2 c. à café de sel et 1 litre d'eau. Portez à ébullition à feu moyen-vif, puis réduire le feu à moyen-doux pour garder la soupe à feu doux.
+
+Cuire, en remuant de temps en temps, jusqu'à ce que les lentilles soient décomposées et que la soupe épaississe, pendant environ 25 à 30 minutes.
+
+Pendant ce temps, hachez grossièrement les épinards. Ajoutez les épinards et les tomates dans la casserole et remuer pour bien les mélanger ensemble. Goûtez et assaisonnez avec le sel. Laissez mijoter juste pour laisser les saveurs se marier, pendant environ 5 minutes. Goûtez et assaisonnez à nouveau avec plus de sel.
+
+Versez la soupe dans des bols. Garnir de yogourt, si désiré.

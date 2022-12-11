@@ -1,6 +1,6 @@
 ---
-title: Salade concombre au thon épicé
-image: /img/recipes/img_20210627_211232.jpg
+title: Salade épicée concombre et thon
+image: /img/recipes/img-20220524-wa0005.jpg
 tags:
   - Thaï 🇹🇭
   - Salade 🥗

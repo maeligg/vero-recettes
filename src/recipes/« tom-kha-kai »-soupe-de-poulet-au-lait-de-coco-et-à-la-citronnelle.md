@@ -1,7 +1,8 @@
 ---
 title: « Tom Kha Kai » Soupe de poulet au lait de coco et à la citronnelle
 image: /img/recipes/img-20220808-wa0004.jpg
-tags: []
+tags:
+  - Thaï 🇹🇭
 servings: 6
 sourceLabel: Ka-Thaï
 ingredients:

@@ -2,7 +2,7 @@
 title: Kouign patatez
 image: /img/recipes/kouign-patatez_1.jpeg
 tags:
-  - Végétarien 🌿
+  - Végétarien 🌱
 time: 55 min
 servings: 4
 ingredients:

@@ -4,6 +4,23 @@ image: /img/recipes/poulet-thaï-au-gingembre_4.jpeg
 tags:
   - Thaï 🇹🇭
 servings: 10
+ingredients:
+  - 1,5 kg de poulet (haut de cuisse)
+  - 500 gr de champignons de Paris
+  - 15 gr de champignons noirs secs
+  - 8 c. à soupe d'huille ordinaire
+  - 6 c. à soupe d'ail pressé
+  - 180 gr de gingembre frais tranché en bâtonnets
+  - 1,5 tasse d'oignons de printemps (ou ciboulette)
+  - 3 gros piments rouges coupés en lamelle (ou poivrons)
+  - 1 piment oiseau (petit piment vert)
+  - Assaisonnement
+  - -------------------------
+  - 5 c. à soupe de sauce soja
+  - 5 c. à soupe de "fish" sauce
+  - 1,5 c. à café de poivre blanc
+  - 2 c. à café d'huile de sésame
+  - 1 c. à soupe de sucre de palme
 ---
 Couper le poulet en cubes d'environ 2cm.
 

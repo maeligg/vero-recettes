@@ -1,7 +1,8 @@
 ---
 title: Tarte tatin aux chicons et crottins de Chavignol
 image: /img/recipes/th-697025034.jpeg
-tags: []
+tags:
+  - Végétarien 🌱
 servings: 8
 ingredients:
   - "une pâte feuilletée "

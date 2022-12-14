@@ -16,7 +16,7 @@ Travailler la pâte.
 
 En faire un boudin de 4 cm de diamètre sur la table avec un peu de farine.
 
-Remplir avec les morceaux de fruits choisis (prunes, abricots, cerises, pommes, etc.).
+Remplir et fromer des boules avec les morceaux de fruits choisis (prunes, abricots, cerises, pommes, etc.).
 
 Mettre dans l'eau bouillante et faire cuire 6-7 minutes (jusqu'à ce que les boules montent à la surface, pas plus longtemps). Enlevez de l'eau immédiatement et garder dans une passoire sur l'eau chaude jusqu'au moment de servir. 
 

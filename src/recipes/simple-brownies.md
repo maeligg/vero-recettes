@@ -1,6 +1,6 @@
 ---
 title: Brownies
-image: /img/recipes/brownies.jpg
+image: /img/recipes/brownies_2.jpeg
 tags:
   - Gâteau 🍰
 time: 45 min

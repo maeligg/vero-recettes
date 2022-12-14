@@ -1,6 +1,8 @@
 ---
 title: Boules tchèques aux fruits
 image: /img/recipes/boules-tchèques-aux-fruits_3.jpeg
+tags:
+  - Gâteau 🍰
 ingredients:
   - "250 gr de farine demi-brute (polohruba) "
   - "250 gr de fromage crème "

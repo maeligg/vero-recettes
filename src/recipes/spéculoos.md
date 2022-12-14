@@ -1,6 +1,8 @@
 ---
 title: Spéculoos
 image: /img/recipes/20201205_134917.jpg
+tags:
+  - Gâteau 🍰
 servings: ""
 ingredients:
   - "300 g de beurre mou  "

@@ -1,6 +1,8 @@
 ---
 title: Far breton
 image: /img/recipes/th-233120640.jpeg
+tags:
+  - Gâteau 🍰
 ingredients:
   - "12 cuillères à soupe de farine "
   - "8 cuillères à soupe de sucre "

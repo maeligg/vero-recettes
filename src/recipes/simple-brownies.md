@@ -2,7 +2,7 @@
 title: Brownies
 image: /img/recipes/brownies.jpg
 tags:
-  - Cake 🍰
+  - Gâteau 🍰
 time: 45 min
 servings: 4
 sourceLabel: BBC good food

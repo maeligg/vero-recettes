@@ -1,6 +1,8 @@
 ---
 title: Bûche roulée tiramisu
 image: /img/recipes/buche-roulée-tiramisu_1.jpeg
+tags:
+  - Gâteau 🍰
 ---
 Commencez par la crème : fouettez les jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse et double de volume. Ajoutez le mascarpone égoutté et mélangez doucement, juste le temps de lisser la crème. Couvrez et laissez reposer 1h au frigo.
 

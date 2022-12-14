@@ -3,6 +3,7 @@ title: Bûche roulée tiramisu
 image: /img/recipes/buche-roulée-tiramisu_1.jpeg
 tags:
   - Gâteau 🍰
+servings: ""
 ingredients:
   - "Ingrédients pour le biscuit "
   - ----------------------------------------
@@ -16,6 +17,12 @@ ingredients:
   - "5 jaunes d’œufs "
   - "500 gr de mascarpone "
   - 5 c. à soupe rases de sucre fin
+  - "Ingrédients pour la finition "
+  - -----------------------------------------
+  - "1 petite tasse d’expresso froid "
+  - "3 c. à soupe d’amaretto (facultatif) "
+  - "1 c. à soupe de cacao en poudre "
+  - 2 c. à soupe de copeaux de chocolat
 ---
 Commencez par la crème : fouettez les jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse et double de volume. Ajoutez le mascarpone égoutté et mélangez doucement, juste le temps de lisser la crème. Couvrez et laissez reposer 1h au frigo.
 

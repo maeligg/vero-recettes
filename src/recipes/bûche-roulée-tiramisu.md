@@ -11,6 +11,11 @@ ingredients:
   - "125 gr de sucre fin "
   - 50 gr de beurre
   - " 1 pincée de sel"
+  - "Ingrédients pour la crème "
+  - ----------------------------------------
+  - "5 jaunes d’œufs "
+  - "500 gr de mascarpone "
+  - 5 c. à soupe rases de sucre fin
 ---
 Commencez par la crème : fouettez les jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse et double de volume. Ajoutez le mascarpone égoutté et mélangez doucement, juste le temps de lisser la crème. Couvrez et laissez reposer 1h au frigo.
 

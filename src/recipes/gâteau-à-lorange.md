@@ -1,6 +1,8 @@
 ---
 title: Gâteau à l'orange
 image: /img/recipes/gateau-orange-glaçage.jpeg
+tags:
+  - Gâteau 🍰
 ingredients:
   - "115 gr de sucre "
   - "115 gr de beurre "

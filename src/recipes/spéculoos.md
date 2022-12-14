@@ -19,11 +19,17 @@ ingredients:
 ---
 **Recette**
 
-Mélanger le beurre mou les deux sortes de sucre, le sel, les oeufs, les épices. 
+Mélanger le beurre mou, les deux sortes de sucre, le sel, les oeufs et les épices. 
 
-Puis ajouter la farine et la levure mêlée préalablement à la farine.
+Puis ajouter la farine et la levure, mêlée préalablement à la farine.
 
-Malaxer et former une boule. Faire la pâte la veille ou quelques heures avant. Aplatir la pâte au rouleau à pâtisserie et faire les formes. Cuire 10 à 12 minutes à 180°.
+Malaxer délicatement à la main et former une boule. 
+
+Faire la pâte la veille ou quelques heures avant. 
+
+Aplatir la pâte au rouleau à pâtisserie et faire les formes. 
+
+Cuire 10 à 12 minutes à 180°.
 
 **Conseils**
 
@@ -31,4 +37,4 @@ Personnellement, je réduis la quantité de sucre (envrion d'1/3).
 
 Je divise ma pâte en 3 et, pendant que je cuis la première fournée, j'étale la seconde, puis quand la première est cuite, j'enfourne la seconde et j'étale la troisième.
 
-Il ne faut pas trop cuire, les biscuit durciront hors du four et il faut aussi bien lse faire refroidir avant de les stocker, de préférence dans une bote en fer.
+Il ne faut pas trop cuire, les biscuit durciront hors du four et il faut aussi bien lse faire refroidir avant de les stocker, de préférence dans une boîte en fer.

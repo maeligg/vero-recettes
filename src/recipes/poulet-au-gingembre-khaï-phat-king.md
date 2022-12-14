@@ -1,6 +1,8 @@
 ---
 title: Poulet au gingembre (Khaï Phat King)
 image: /img/recipes/poulet-thaï-au-gingembre_4.jpeg
+tags:
+  - Thaï 🇹🇭
 ---
 Couper le poulet en cubes d'environ 2cm.
 

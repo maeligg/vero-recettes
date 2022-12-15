@@ -5,15 +5,15 @@ tags:
   - Gâteau 🍰
 time: 45 min
 servings: 4
-sourceLabel: BBC good food
-sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
+sourceLabel: ""
+sourceURL: ""
 ingredients:
-  - 225 gr de beuure (non salé)
-  - 450 gr de sucre en poudre
-  - 140 gr de chocolat noir coupé en morceaux
-  - 5 oeufs moyens
-  - " 110 gr farine"
-  - 55 gr de cacao en poudre
+  - 200 gr de chocolat noir coupé en morceaux
+  - 125 gr de beure (non salé)
+  - 125 gr de sucre en poudre (100 gr serait suffisant)
+  - 4 oeufs moyens
+  - " 100 gr farine"
+  - "Sel une Pincée "
 ---
 Préchauffez le four à 190°C
 

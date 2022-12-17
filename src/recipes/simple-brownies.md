@@ -4,7 +4,7 @@ image: /img/recipes/brownies_2.jpeg
 tags:
   - Gâteau 🍰
 time: 45 min
-servings: 4
+servings: 8
 sourceLabel: ""
 sourceURL: ""
 ingredients:
@@ -13,7 +13,7 @@ ingredients:
   - 125 gr de sucre en poudre (100 gr serait suffisant)
   - 4 oeufs moyens
   - " 100 gr farine"
-  - "Sel une Pincée "
+  - "Sel (une pincée) "
 ---
 Préchauffez le four à 190°C
 

@@ -4,13 +4,15 @@ image: /img/recipes/boules-tchèques-aux-fruits_3.jpeg
 tags:
   - Gâteau 🍰
 ingredients:
-  - "250 gr de farine demi-brute (polohruba) "
-  - "250 gr de fromage crème "
-  - "1 c. à soupe de sucre fin "
+  - 250 gr de farine
+  - "250 gr de pommes de terre bouillies râpées "
+  - 250 gr de fromage blanc
   - "1 œuf entier "
-  - "1 c. de beurre fondu "
+  - "1 c. à soupe de sucre fin "
+  - "1 c. à soupe de beurre fondu "
   - "1 pointe de sel "
   - un peu de lait si nécessaire
+  - Quelques fruits (prunes, abricots, cerises, myrtilles,...)
 ---
 Travailler la pâte. 
 

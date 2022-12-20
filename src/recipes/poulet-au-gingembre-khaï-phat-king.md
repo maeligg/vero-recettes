@@ -1,6 +1,6 @@
 ---
 title: Poulet au gingembre (Khaï Phat King)
-image: /img/recipes/poulet-thaï-au-gingembre_4.jpeg
+image: /img/recipes/20221220_130619.jpg
 tags:
   - Thaï 🇹🇭
 servings: 10

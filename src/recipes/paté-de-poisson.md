@@ -1,6 +1,6 @@
 ---
 title: Paté de poisson
-image: /img/recipes/terrine-poisson_1.jpeg
+image: /img/recipes/20221225_132951.jpg
 ingredients:
   - 300 gr filet de poisson (1 seule sorte ou du saumon et une autre sorte)
   - "1 bouquet persil haché "

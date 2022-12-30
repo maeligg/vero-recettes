@@ -5,7 +5,7 @@ tags:
   - Thaï 🇹🇭
 servings: 10
 ingredients:
-  - 1,5 kg de poulet (haut de cuisse)
+  - 1,5 kg de poulet (haut de cuisse ou blanc)
   - 500 gr de champignons de Paris
   - 15 gr de champignons noirs secs
   - 8 c. à soupe d'huille ordinaire

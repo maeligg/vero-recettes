@@ -1,6 +1,6 @@
 ---
 title: Poulet aux noix de cajou
-image: /img/recipes/img-20220521-wa0098.jpg
+image: /img/recipes/20221225_140425.jpg
 tags:
   - Thaï 🇹🇭
 servings: 6

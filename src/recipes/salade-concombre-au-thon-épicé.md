@@ -5,7 +5,8 @@ tags:
   - Thaï 🇹🇭
   - Salade 🥗
 servings: 6
-sourceLabel: Ka-Thaï
+sourceLabel: Ka-Thaï, https://www.facebook.com/blackalbatroskathai,
+  https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 3 boîtes de thon au naturel
   - 1 cuillère à soupe de gingembre frais râpé

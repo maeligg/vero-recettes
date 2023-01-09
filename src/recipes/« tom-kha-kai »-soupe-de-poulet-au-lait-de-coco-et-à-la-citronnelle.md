@@ -12,7 +12,7 @@ ingredients:
   - "4 c. à soupe de galanga (racine coupée en tranches) "
   - "20 feuilles de Caffir (feuilles de Combava citron vert) "
   - "2 c. à soupe de pâte de piment (chili paste with soya bean oil) "
-  - "2 c. à soupe de tamarin "
+  - " 2 c. à soupe de tamarin (en pâte)"
   - "600 gr de poulet, coupé en cubes de 2 à 3 cm "
   - "300 gr de champignons (pleurote = oyster mushroom) "
   - "6 tomates cerise (facultatif, pour la déco et la couleur) "
@@ -31,7 +31,7 @@ Ajouter la citronnelle pilonnée et coupée en 4, le galanga coupé en tranches 
 
 Laisser bouillir 5 min, puis ajouter les champignons, les échalotes et le poulet coupé en cubes de 2 à 3 cm.
 
-Ajouter les tomates cerises.
+Ajouter les tomates cerise.
 
 Laisser bouillir jusqu’à ce que le poulet soit cuit.
 

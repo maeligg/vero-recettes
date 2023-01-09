@@ -22,6 +22,8 @@ ingredients:
   - 2 c. à café d'huile de sésame
   - 1 c. à soupe de sucre de palme
 ---
+**Recette**
+
 Couper le poulet en cubes d'environ 2cm.
 
 Couper les champignons en 4.

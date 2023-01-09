@@ -3,7 +3,7 @@ title: Poulet aux noix de cajou
 image: /img/recipes/20221225_140425.jpg
 tags:
   - Thaï 🇹🇭
-servings: 6
+servings: 8
 sourceLabel: Ka-Thaï
 ingredients:
   - "700 gr de blancs de poulet "

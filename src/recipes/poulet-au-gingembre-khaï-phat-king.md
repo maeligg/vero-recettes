@@ -4,6 +4,8 @@ image: /img/recipes/20221220_130619.jpg
 tags:
   - Thaï 🇹🇭
 servings: 8
+sourceLabel: Ka-Thaï, https://www.facebook.com/blackalbatroskathai,
+  https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 1,5 kg de poulet (haut de cuisse ou blanc)
   - 500 gr de champignons de Paris

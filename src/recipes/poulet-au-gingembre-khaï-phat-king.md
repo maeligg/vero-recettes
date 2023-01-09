@@ -3,7 +3,7 @@ title: Poulet au gingembre (Khaï Phat King)
 image: /img/recipes/20221220_130619.jpg
 tags:
   - Thaï 🇹🇭
-servings: 10
+servings: 8
 ingredients:
   - 1,5 kg de poulet (haut de cuisse ou blanc)
   - 500 gr de champignons de Paris

@@ -4,7 +4,7 @@ image: /img/recipes/20230108_125742.jpg
 tags:
   - Thaï 🇹🇭
   - Salade 🥗
-servings: ""
+servings: 6
 ingredients:
   - 4 longues aubergines fines
   - 300 gr échalotes confites

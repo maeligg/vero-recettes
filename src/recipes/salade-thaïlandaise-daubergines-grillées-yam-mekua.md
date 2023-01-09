@@ -19,16 +19,16 @@ ingredients:
 ---
 **Recette**
 
-Piquez les aubergines avant la cuisson. Les faire griller au four avec leur peau, les retourner régulièrement, tester la cuisson avec un couteau. Une fois cuites, les laisser refroidir avant de les éplucher.
+Piquer les aubergines avant la cuisson. Les faire griller au four avec leur peau, les retourner régulièrement, tester la cuisson avec un couteau. Une fois cuites, les laisser refroidir avant de les éplucher.
 
-Une fois épluchées, placez les aubergines dans un plat légèrement creux après les avoir coupées en 4 dans le sens de la longueur puis en cubes de 2 cm.
+Une fois épluchées, placer les aubergines dans un plat légèrement creux après les avoir coupées en 4 dans le sens de la longueur puis en cubes de 2 cm.
 
-Epluchez et emincez les échalotes avant de les faire confire dans l'huile.
+Eplucher et emincer les échalotes avant de les faire confire dans l'huile.
 
-Epluchez et coupez l'ail en lamelles et faites le frire (en commençant à froid pour éviter l'amertume après) comme les échalotes.
+Eplucher et couper l'ail en lamelles et le faire frire (en commençant à froid pour éviter l'amertume) comme les échalotes.
 
-Faites cuire le poulet coupé petit sans matière grasse.
+Faire cuire le poulet coupé petit sans matière grasse.
 
-Parsemez sur les aubergines la viande cuite, les échalotes, l'ail, la coriandre et les cacahuètes hachées.
+Parsemer sur les aubergines la viande cuite, les échalotes, l'ail, la coriandre et les cacahuètes hachées.
 
-Préparez séparément l'assaisonnement : mélangez le jus de citron, la fish sauce, le sucre, le piment et les crevettes séchées. Ensuite au dernier moment, versez l'assaisonnement sur le mélange d'aubergines.
+Préparer séparément l'assaisonnement : mélanger le jus de citron, la fish sauce, le sucre, le piment et les crevettes séchées. Ensuite au dernier moment, verser l'assaisonnement sur le mélange d'aubergines.

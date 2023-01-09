@@ -10,7 +10,7 @@ ingredients:
   - "800 ml de bouillon (1 bouillon cube) "
   - "4 bâtons de citronnelle "
   - "4 c. à soupe de galanga (racine coupée en tranches) "
-  - "20 feuilles de Kaffir (feuilles de Kombava citron vert) "
+  - "20 feuilles de Caffir (feuilles de Combava citron vert) "
   - "2 c. à soupe de pâte de piment (chili paste with soya bean oil) "
   - "2 c. à soupe de tamarin "
   - "600 gr de poulet, coupé en cubes de 2 à 3 cm "
@@ -27,11 +27,11 @@ ingredients:
 
 Dans un wok, faire bouillir la totalité du lait de coco et le bouillon.
 
-Ajouter la citronnelle pilonnée et coupée en 4, le galanga coupé en tranches épaisses et les feuilles de Kaffir (citron) déchirées en 2.
+Ajouter la citronnelle pilonnée et coupée en 4, le galanga coupé en tranches épaisses et les feuilles de Caffir (citron) déchirées en 2.
 
 Laisser bouillir 5 min, puis ajouter les champignons, les échalotes et le poulet coupé en cubes de 2 à 3 cm.
 
-Ajouter les tomates cerise
+Ajouter les tomates cerises.
 
 Laisser bouillir jusqu’à ce que le poulet soit cuit.
 

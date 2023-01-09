@@ -4,7 +4,8 @@ image: /img/recipes/20221225_140425.jpg
 tags:
   - Thaï 🇹🇭
 servings: 8
-sourceLabel: Ka-Thaï
+sourceLabel: Ka-Thaï, https://www.facebook.com/blackalbatroskathai,
+  https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - "700 gr de blancs de poulet "
   - "200 gr de noix de cajou crues "

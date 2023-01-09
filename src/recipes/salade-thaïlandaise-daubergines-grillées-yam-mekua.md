@@ -1,7 +1,8 @@
 ---
 title: " Salade thaïlandaise d'aubergines grillées (Yam Mekua)"
 image: /img/recipes/20230108_125742.jpg
-tags: []
+tags:
+  - Thaï 🇹🇭
 servings: ""
 ingredients:
   - 4 longues aubergines fines

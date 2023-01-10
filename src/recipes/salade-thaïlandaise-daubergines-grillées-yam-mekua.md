@@ -5,8 +5,8 @@ tags:
   - Thaï 🇹🇭
   - Salade 🥗
 servings: 6
-sourceLabel: Ka-Thaï, https://www.facebook.com/blackalbatroskathai,
-  https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
+sourceLabel: "Katy Faure, KaThaï_cuisine "
+sourceURL: https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 4 longues aubergines fines
   - 300 gr échalotes confites

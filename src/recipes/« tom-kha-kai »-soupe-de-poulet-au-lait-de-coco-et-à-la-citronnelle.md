@@ -4,8 +4,8 @@ image: /img/recipes/img-20220808-wa0004.jpg
 tags:
   - Thaï 🇹🇭
 servings: 8
-sourceLabel: Ka-Thaï, https://www.facebook.com/blackalbatroskathai,
-  https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
+sourceLabel: Katy Faure, kathai_cuisine
+sourceURL: https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - "1,2 litre de lait de coco "
   - "800 ml de bouillon (1 bouillon cube) "

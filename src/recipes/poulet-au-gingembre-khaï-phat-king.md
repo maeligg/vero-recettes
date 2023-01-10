@@ -4,7 +4,7 @@ image: /img/recipes/20221220_130619.jpg
 tags:
   - Thaï 🇹🇭
 servings: 8
-sourceLabel: Katy Faure, Kathaï_cuisine
+sourceLabel: Katy Faure, kathai_cuisine
 sourceURL: https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 1,5 kg de poulet (haut de cuisse ou blanc)

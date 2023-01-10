@@ -5,7 +5,7 @@ tags:
   - Thaï 🇹🇭
   - Salade 🥗
 servings: 6
-sourceLabel: "Katy Faure, Kathaï_cuisine "
+sourceLabel: "Katy Faure, kathai_cuisine "
 sourceURL: https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 4 longues aubergines fines

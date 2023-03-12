@@ -1,5 +1,5 @@
 ---
-title: Curyy de butternut, pois chiche et épinards
+title: Curry de butternut, pois chiche et épinards
 image: /img/recipes/20230312_132200.jpg
 tags:
   - Végétarien 🌱

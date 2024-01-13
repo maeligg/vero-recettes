@@ -1,6 +1,6 @@
 ---
 title: Salade de choux de Bruxelles à la Thaïe
-image: /img/recipes/chou-de-bruxelles-4187388760.jpg
+image: /img/recipes/screenshot_20240113-221338_instagram~2.jpg
 tags:
   - Thaï 🇹🇭
   - Salade 🥗

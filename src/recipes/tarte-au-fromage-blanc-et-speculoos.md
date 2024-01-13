@@ -18,10 +18,10 @@ Préchauffez le four à 180°C.
 
 Beurrez le moule.
 
-Ecrasez et tassez les speculoos dans le moule.
+Ecrasez et tassez les spéculoos dans le moule.
 
-Dans un saladier, mettez le fromage blanc, le sucre, la mazena, les 3 jaunes d'oeufs. Mélangez le tout pour obtenir une préparation homogène, puis ajoutez le zeste de citron.
+Dans un saladier, mettez le fromage blanc, le sucre, la mazena, les 3 jaunes d’œufs Mélangez le tout pour obtenir une préparation homogène, puis ajoutez le zeste de citron.
 
-Montez les blancs en neige, puis incorporez-les délicatement au mélange. Versez la préparation dans le moule, sur les speculoos écrasés.
+Montez les blancs en neige, puis incorporez-les délicatement au mélange. Versez la préparation dans le moule, sur les spéculoos écrasés.
 
 Mettez au four pendant 25 minutes.

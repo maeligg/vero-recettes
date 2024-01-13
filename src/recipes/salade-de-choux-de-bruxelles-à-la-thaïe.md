@@ -5,6 +5,7 @@ tags:
   - Thaï 🇹🇭
   - Salade 🥗
 servings: 6
+sourceURL: https://instagram.com/kathai_cuisine?igshid=YmMyMTA2M2Y=
 ingredients:
   - 300 gr de choux de Bruxelles (petits de préférence)
   - 1 chili (petit piment rouge)

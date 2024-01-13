@@ -9,7 +9,7 @@ ingredients:
   - 500 gr de fromage blanc
   - 70 gr de speculoos
   - 3 oeufs
-  - 10 gr de sucre
+  - 100 gr de sucre
   - un peu de beurre (pour beurrer le moule)
   - 1 c. à soupe de maïzena
   - 1 zeste de citron

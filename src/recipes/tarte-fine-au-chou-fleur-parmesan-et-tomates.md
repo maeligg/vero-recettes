@@ -1,7 +1,8 @@
 ---
 title: Tarte fine au chou-fleur, parmesan et tomates
 image: /img/recipes/ob_5ddb9f_pizza-pa-te-chou-fleur-2530582914.jpg
-tags: []
+tags:
+  - Végétarien 🌱
 servings: 6
 ingredients:
   - "1 gros chou-fleur "

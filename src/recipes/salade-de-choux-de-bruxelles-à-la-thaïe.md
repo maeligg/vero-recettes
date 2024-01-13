@@ -3,6 +3,7 @@ title: Salade de choux de Bruxelles à la Thaïe
 image: /img/recipes/chou-de-bruxelles-4187388760.jpg
 tags:
   - Thaï 🇹🇭
+  - Salade 🥗
 servings: 6
 ingredients:
   - 300 gr de choux de Bruxelles (petits de préférence)
